@@ -19,7 +19,7 @@
 
 <script>
     export default {
-        // props 接收父组件传过来的值
+        // props 接收父组件传过来的值 测试测试
         props: {
             filter: {
                 type: String,
